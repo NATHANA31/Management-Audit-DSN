@@ -1,0 +1,21 @@
+# Python artifacts
+__pycache__/
+*.pyc
+ExtractPages.py
+
+# Power BI working files & templates
+*.pbit
+First_Trial.pbix
+
+# Root-level loose spreadsheets and documents
+/*.xlsx
+/*.docx
+/*.docx.pdf
+RELOAD_NATE.pbit
+NATHAN_AGUELE_AUDITED_DASHBOARD.pdf
+Nathan_Aguele_Audited_Management_Dashboard.png
+NathanAguele_Data_Analytics_FinalProject_Dashboard.pdf
+
+# System files
+Thumbs.db
+.DS_Store
