@@ -19,8 +19,8 @@ This project evaluates and audits a flawed management retail dashboard. The audi
 | **Gross Revenue** | ₦47,500,870.00 | **₦46,679,725.00** | **₦42,031,350.00** |
 | **Gross Profit** | ₦16,617,270.00 | **₦14,590,425.00** | **₦13,151,150.00** |
 | **Total Returns Lost** | *Unreported* | — | **₦4,648,375.00** |
-| **Return Rate** | *Unreported* | **8.57** | **8.57%** |
-| **Average Discount** | *Unreported* | **7.99%** | — |
+| **Return Rate** | *Unreported* | **8.57%** | **8.57%** |
+| **Average Discount** | *Unreported* | **7.99%** | **7.99%** |
 
 ---
 
